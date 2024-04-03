@@ -6,7 +6,7 @@ Run server:
 
 ```
 $ cd server
-$ npm run start
+$ npm run dev
 ```
 
 Run project:
